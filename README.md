@@ -1,11 +1,3 @@
-### Hi there 👋
-
-<table border="0">
-  <tr>
-    <td>1</td>
-    <td>2</td>
-  </tr>
-</table>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![codewars](https://www.codewars.com/users/temarazin/badges/micro)](https://www.codewars.com/users/temarazin) 
 <!--
