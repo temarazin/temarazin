@@ -15,8 +15,8 @@ Hi there! I'm Artem, web developer.
 [![codewars](https://www.codewars.com/users/temarazin/badges/small)](https://www.codewars.com/users/temarazin) 
 
 ### 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝘀
-- E-mail: [mailto:temarazin@gmail.com](temarazin@gmail.com)
-- Telegram: [https://t.me/temarazin](@temarazin)
+- E-mail: [temarazin@gmail.com](mailto:temarazin@gmail.com)
+- Telegram: [@temarazin](https://t.me/temarazin)
 <!--
 **temarazin/temarazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
