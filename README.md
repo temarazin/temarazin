@@ -12,7 +12,11 @@ Hi there! I'm Artem, web developer.
 ### 𝗦𝘁𝗮𝘁𝘀
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/temarazin/badges/micro)](https://www.codewars.com/users/temarazin) 
+[![codewars](https://www.codewars.com/users/temarazin/badges/small)](https://www.codewars.com/users/temarazin) 
+
+### 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝘀
+- E-mail: ![mailto:temarazin@gmail.com](temarazin@gmail.com)
+- Telegram: ![https://t.me/temarazin](@temarazin)
 <!--
 **temarazin/temarazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
